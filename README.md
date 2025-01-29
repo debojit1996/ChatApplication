@@ -1,0 +1,1 @@
+## This app is a simple spring boot chat application implemented with spring boot websockets library
